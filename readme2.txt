@@ -1,0 +1,3 @@
+Pekerjaan data analyst mungkin mirip dengan data scientist. Lalu, apakah perbedaan dari kedua bidang tersebut? Data analyst terbatas pada ide dan konsep pengambilan keputusan berdasarkan data. Sebagaimana disebutkan oleh Nandi & Sharma (2000), mereka tidak ikut masuk dalam ranah mengolah data menjadi algoritma seperti pekerjaan data scientist.
+Nah,  data scientist dapat merancang algoritma dari data yang tersedia sehingga bisa memberikan prediksi-prediksi dengan lebih akurat. Hal lain yang menjadi pembeda, menurut Hyman (2022), data scientist biasanya dapat menemukan masalah pada data serta memperbaikinya (disebut juga dengan data wrangling). 
+
